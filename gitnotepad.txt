@@ -1,2 +1,1 @@
-This is version 1.
-Now it is being changed.
+This is version 2.
