@@ -1,0 +1,1 @@
+hey this is a ignored file and it is not tracked by my git
