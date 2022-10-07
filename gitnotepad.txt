@@ -1,2 +1,6 @@
 This is version 2.
+<<<<<<< HEAD
 again changed
+=======
+hello world
+>>>>>>> 048784b44f916811d5a4dc6a86e7b4f32c6926ff
